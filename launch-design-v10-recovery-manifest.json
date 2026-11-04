@@ -1,0 +1,17 @@
+{
+  "status": "recovered-development-build",
+  "version": "v10-recovery",
+  "note": "Recovered presentation HTML only. Final diagnostic-loop acceptance is still pending; source backup is retained locally and is not published.",
+  "files": [
+    {
+      "path": "launch-design-v10-recovered.html",
+      "bytes": 23384263,
+      "sha256": "560d2e9ec4b1db96c612cbe3b813831f0a8ceeb75da50fc1b10aa01c72dd2f4a"
+    },
+    {
+      "path": "launch-design-v10-recovered.zip",
+      "bytes": 13373997,
+      "sha256": "436c9ef0749aeee54812301c79bbbefb31ef4062728b80116faa05d09be0340c"
+    }
+  ]
+}
