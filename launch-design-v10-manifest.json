@@ -1,0 +1,21 @@
+{
+  "version": "v10",
+  "content": "self-contained presentation HTML and identical HTML-only ZIP",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 23385128,
+      "sha256": "00b1d70b4d782e1259b068d937eba494406fb3da7708765cc5979c7358a93ffd"
+    },
+    {
+      "path": "launch-design-v10.html",
+      "bytes": 23385128,
+      "sha256": "00b1d70b4d782e1259b068d937eba494406fb3da7708765cc5979c7358a93ffd"
+    },
+    {
+      "path": "launch-design-v10.zip",
+      "bytes": 13374261,
+      "sha256": "848e125d3f6e8e5b801438a3668575ca17f1fce4e484ceabc035b63a61864e31"
+    }
+  ]
+}
